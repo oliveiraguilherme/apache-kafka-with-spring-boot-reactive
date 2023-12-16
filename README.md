@@ -34,6 +34,6 @@ Se encontrar problemas ou tiver sugestões de melhorias, sinta-se à vontade par
 
 ## Agradecimentos
 
-Um agradecimento especial ao autor do tutorial original por compartilhar conhecimentos valiosos. Acompanhe o projeto original para obter mais conteúdo relevante.
+Um agradecimento especial ao autor do tutorial original, Bouali Ali, por compartilhar conhecimentos valiosos. Acompanhe o projeto original para obter mais conteúdo relevante.
 
 **Link para o projeto original:** [Apache Kafka with Spring Boot Reactive](https://github.com/ali-bouali/apache-kafka-with-spring-boot-reactive)
